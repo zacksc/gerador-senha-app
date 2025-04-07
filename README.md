@@ -17,7 +17,7 @@ Este projeto é um aplicativo React Native simples que gera senhas aleatórias e
 ## Como Executar
 
 1.  **Clone o Repositório (se aplicável):**
-    * Se você tiver o código em um repositório Git, clone-o para sua máquina local.
+    * Clone-o para sua máquina local.
 
 2.  **Instale as Dependências:**
     * Navegue até o diretório do projeto no terminal.
@@ -36,7 +36,7 @@ Este projeto é um aplicativo React Native simples que gera senhas aleatórias e
     * Utiliza bibliotecas como expo-clipboard e fontawesome para copiar o texto e utilizar icones.
     * Utiliza a biblioteca expo-google-fonts para utilizar a fonte Darker Grotesque.
 * **`services/passwordService.js`:**
-    * Este arquivo contém a função `generatePass()` que gera a senha aleatória. (Este arquivo não foi apresentado, mas é referenciado no código principal.)
+    * Este arquivo contém a função `generatePass()` que gera a senha aleatória.
 * **`assets/logo.png`:**
     * Contém o logo do aplicativo.
 * **`app.json`:**
